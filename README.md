@@ -26,6 +26,7 @@ Watch each swap and heapify operation step by step, with colored bars, speed con
 ### Running the app
 ```bash
 python Heap_Sort_Visualizer.py
+```
 
 ## UI Guide
 - 1. Type comma-separated integers into the input box (up to 40 values)
