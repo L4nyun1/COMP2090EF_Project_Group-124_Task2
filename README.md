@@ -19,11 +19,10 @@ Watch each swap and heapify operation step by step, with colored bars, speed con
 
 ## Installation
 
-### Prerequisites
+### Requirements
 - Python 3.7 or higher
 - Tkinter (included with standard Python installations)
 
-### Clone the repository
+### Running the app
 ```bash
-git clone https://github.com/yourusername/heap-sort-visualizer.git
-cd heap-sort-visualizer
+python Heap_Sort_Visualizer.py
