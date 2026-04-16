@@ -26,3 +26,10 @@ Watch each swap and heapify operation step by step, with colored bars, speed con
 ### Running the app
 ```bash
 python Heap_Sort_Visualizer.py
+
+## UI Guide
+- 1. Type comma-separated integers into the input box (up to 40 values)
+- 2. Press **▶ Sort** to start the animated sort
+- 3. Use the **Speed** slider to slow down or speed up
+- 4. Press **⚡ Random** to generate a random dataset
+- 5. Press **⟳ Reset** to start over
